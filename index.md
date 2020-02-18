@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
       integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
       <script src="https://kit.fontawesome.com/3d084ec093.js" crossorigin="anonymous"></script>
-      <link rel="stylesheet" href="src/css/style.css">
+      <link rel="stylesheet" href="style.css">
 
     <!--FONTES-->
     <!--NAV-->
