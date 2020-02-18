@@ -32,34 +32,22 @@
             <figure class="carousel-inner">
               <div class="carousel-item active">
                 <img class="d-block w-100 imagem-carrossel" src="src/assets/Activity Diagram (Geral).png" alt="Fluxograma contendo a visão geral do app.">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Visão Geral</h5>
-                  <p></p>
-                </div>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 imagem-carrossel" src="src/assets/Activity Diagram ( Acesso).png" alt="Fluxograma contendo dinâmica de acesso.">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5 style="color: black;"> Dinâmica de Acesso </h5>
-                </div>
+           
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 imagem-carrossel" src="src/assets/Activity Diagram (Calendário).png" alt="Fluxograma contendo funcionalidade Calendário">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Calendário </h5>
-                </div>
+              
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 imagem-carrossel" src="src/assets/Activity Diagram (Estoque).png" alt="Fluxograma contendo funcionalidade Estoque">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Estoque </h5>
-                </div>
+              
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100 imagem-carrossel" src="src/assets/Activity Diagram (Vendas _ Gastos).png" alt="Fluxograma contendo funcionalidade Vendas e Gastos">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Vendas e Gastos </h5>
-                </div>
+            
               </div>
             </figure>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
